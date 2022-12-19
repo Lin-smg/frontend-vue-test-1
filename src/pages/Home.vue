@@ -67,7 +67,7 @@
 
     <div style="height: 200vh;">
 
-      <div class="parallax" :style="{ background: scrollPos > 400 ? 'black' : '' }">
+      <div class="parallax" :style="{ background: scrollPos > 600 ? 'black' : '' }">
         <div class="text-white head-line" style="padding: 20px 100px; height: 50%;">
           <h2 class="text-start head-line" style="margin-top: 70px;">
             <p>All Apple Originals.
