@@ -137,10 +137,9 @@
 
       <div style="height: 450px; background-color: black;">
 
-        <div data-aos="zoom-out">
+        <div>
           <Carousel :autoplay="2000" :items-to-show="2" :wrap-around="true" :pause-autoplay-on-hover="true">
             <Slide v-for="slide in carousel" :key="slide">
-              <!-- <div class="carousel__item"  style="background: white; height: 500px;">{{ slide }}</div> -->
               <img class="carousel__item" :src="slide" style="background: white; height: 400px;">
             </Slide>
 
@@ -177,7 +176,7 @@
 
       <div style="height: 500px;">
 
-        <div class="text-center ms-auto me-auto" style="height: 100px; width: 1000px; margin-top: 100px;">
+        <div class="text-center ms-auto me-auto" style="height: 100px; margin-top: 100px;">
 
           <figure data-aos="zoom-in" class="m-auto"
             style="width: 76px;
