@@ -193,14 +193,14 @@
           <p class="mt-3">Find the Apple TV app on your favorite Apple devices. <br>
             Or watch Apple TV+ online at tv.apple.com.</p>
 
-          <div class="row justify-content-center">
+          <div class="row justify-content-center" style="width: 100%">
 
             <div class="col text-center" data-aos="fade-up">
               <div class="m-auto"
                 style="    
-                  width: 53px;
+                  width: 50px;
                   height: 63px;
-                  background-size: 53px 63px;
+                  background-size: 43px 53px;
                   background-repeat: no-repeat;
                   background-image: url('https://www.apple.com/v/apple-tv-plus/ag/images/overview/icon_apple_tv__r2nel0gcigam_medium.jpg');">
               </div>
@@ -209,9 +209,9 @@
             <div class="col" data-aos="fade-up" data-aos-delay="50">
               <div class="m-auto"
                 style="    
-                  width: 53px;
+                  width: 50px;
                   height: 63px;
-                  background-size: 53px 63px;
+                  background-size: 43px 53px;
                   background-repeat: no-repeat;
                   background-image: url('https://www.apple.com/v/apple-tv-plus/ag/images/overview/icon_iphone__c914mkstye0y_medium.jpg');">
               </div>
@@ -221,9 +221,9 @@
             <div class="col" data-aos="fade-up" data-aos-delay="100">
               <div class="m-auto"
                 style="    
-                  width: 53px;
+                  width: 50px;
                   height: 63px;
-                  background-size: 53px 63px;
+                  background-size: 43px 53px;
                   background-repeat: no-repeat;
                   background-image: url('https://www.apple.com/v/apple-tv-plus/ag/images/overview/icon_ipad__cyk6qow5fiqa_medium.jpg');">
               </div>
@@ -232,9 +232,9 @@
             <div class="col" data-aos="fade-up" data-aos-delay="150">
               <div class="m-auto"
                 style="    
-                  width: 53px;
+                  width: 50px;
                   height: 63px;
-                  background-size: 53px 63px;
+                  background-size: 43px 53px;
                   background-repeat: no-repeat;
                   background-image: url('https://www.apple.com/v/apple-tv-plus/ag/images/overview/icon_mac__b7y797p7oouq_medium.jpg');">
               </div>
@@ -243,9 +243,9 @@
             <div class="col" data-aos="fade-up" data-aos-delay="200">
               <div class="m-auto"
                 style="    
-                  width: 53px;
+                  width: 50px;
                   height: 63px;
-                  background-size: 53px 63px;
+                  background-size: 43px 53px;
                   background-repeat: no-repeat;
                   background-image: url('https://www.apple.com/v/apple-tv-plus/ag/images/overview/icon_airplay__ddkvcm0sxtm6_medium.jpg');">
               </div>
